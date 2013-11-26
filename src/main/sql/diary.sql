@@ -1,3 +1,4 @@
+#OK.
 create database diary;
 
 use diary;
